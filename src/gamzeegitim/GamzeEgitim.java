@@ -51,7 +51,8 @@ public class GamzeEgitim {
         // 0 -> saman1
         // 1 -> saman2
         
-        System.out.println("Selamlar123");
+        //System.out.println("Selamlar123");
+        System.out.println("gokhansaman");
 
     }
 
