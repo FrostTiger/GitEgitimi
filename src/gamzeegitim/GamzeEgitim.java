@@ -50,10 +50,10 @@ public class GamzeEgitim {
         System.out.println(cumle);
         // 0 -> saman1
         // 1 -> saman2
-        
-        //System.out.println("Selamlar123");
-        System.out.println("gokhansaman");
 
+        //System.out.println("Selamlar123");
+        //System.out.println("gokhansaman");
+        System.out.println("gamzebinat");
     }
 
 }
